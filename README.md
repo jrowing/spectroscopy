@@ -12,11 +12,13 @@ Spectroscopy is used in physical and analytical chemistry because atoms and mole
 # Start by recapping
 ## The photoelectric effect:
 
-Some brilliant resources: [https://phet.colorado.edu/en/simulation/legacy/photoelectric](https://phet.colorado.edu/en/simulation/legacy/photoelectric "The Photoelectric Simulation at PhET")
+Some brilliant resources: 
 
-[http://physics.info/photoelectric/](http://physics.info/photoelectric/ "Physics hypertextbook")
+[Photoelectric Sim](https://phet.colorado.edu/en/simulation/legacy/photoelectric "The Photoelectric Simulation at PhET")
 
-[http://hyperphysics.phy-astr.gsu.edu/hbase/mod2.html](http://hyperphysics.phy-astr.gsu.edu/hbase/mod2.html "Hyperphysics")
+[Physics hypertextbook](http://physics.info/photoelectric/ "Physics hypertextbook")
+
+[Hyperphysics notes](http://hyperphysics.phy-astr.gsu.edu/hbase/mod2.html "Hyperphysics")
 
 
 ### Followed by
@@ -24,12 +26,14 @@ Some brilliant resources: [https://phet.colorado.edu/en/simulation/legacy/photoe
 Energy level diagrams are a means of analyzing the energies electrons can accept and release as they transition from one  accepted orbital to another. These energies differences correspond to the wavelengths of light in the  discreet spectral lines emitted by an atom as it goes through de-excitation or by the wavelengths absorbed in an absorption spectrum.
 
 Resources:
-[http://dev.physicslab.org/Document.aspx?doctype=3&filename=AtomicNuclear_EnergyLevelDiagrams.xml](http://dev.physicslab.org/Document.aspx?doctype=3&filename=AtomicNuclear_EnergyLevelDiagrams.xml "Hyperphysics")
-[http://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html](http://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html "Hydrogen atom simulator")
+
+[Hyperphysics notes](http://dev.physicslab.org/Document.aspx?doctype=3&filename=AtomicNuclear_EnergyLevelDiagrams.xml "Hyperphysics")
+
+[Great Hydrogen atom simulator](http://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html "Hydrogen atom simulator")
 
 #Spectroscopy
 
-Now for the real meat of the lesson - I've got a great simulation that you can use to draw all this knowledge together;
+Now for the real meat of the lesson - I've got a great simulation that you can use to draw all this knowledge together. Feel free to complete the notes to this in word, on paper, in TeX, in Markdown etc...
 
 Open the PhET model, “[Neon Lights and other Discharge Lamps](https://phet.colorado.edu/en/simulation/legacy/discharge-lamps)”. Spend a few minutes familiarizing yourself with the discharge tubes model. 
 Try clicking on different options, check all of the checkboxes, and get a general feel for how the model works. 
