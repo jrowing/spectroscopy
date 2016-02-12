@@ -28,6 +28,9 @@ Resources:
 [http://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html](http://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html "Hydrogen atom simulator")
 
 #Spectroscopy
+
+Now for the real meat of the lesson - I've got a great simulation that you can use to draw all this knowledge together;
+
 Open the PhET model, “[Neon Lights and other Discharge Lamps](https://phet.colorado.edu/en/simulation/legacy/discharge-lamps)”. Spend a few minutes familiarizing yourself with the discharge tubes model. 
 Try clicking on different options, check all of the checkboxes, and get a general feel for how the model works. 
 Investigate both the one atom and multiple atoms tabs.
