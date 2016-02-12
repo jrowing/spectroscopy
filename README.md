@@ -13,8 +13,11 @@ Spectroscopy is used in physical and analytical chemistry because atoms and mole
 ## The photoelectric effect:
 
 Some brilliant resources: [https://phet.colorado.edu/en/simulation/legacy/photoelectric](https://phet.colorado.edu/en/simulation/legacy/photoelectric "The Photoelectric Simulation at PhET")
+
 [http://physics.info/photoelectric/](http://physics.info/photoelectric/ "Physics hypertextbook")
+
 [http://hyperphysics.phy-astr.gsu.edu/hbase/mod2.html](http://hyperphysics.phy-astr.gsu.edu/hbase/mod2.html "Hyperphysics")
+
 
 ### Followed by
 ## Energy level diagrams:
@@ -28,20 +31,29 @@ Resources:
 Open the PhET model, “[Neon Lights and other Discharge Lamps](https://phet.colorado.edu/en/simulation/legacy/discharge-lamps)”. Spend a few minutes familiarizing yourself with the discharge tubes model. 
 Try clicking on different options, check all of the checkboxes, and get a general feel for how the model works. 
 Investigate both the one atom and multiple atoms tabs.
-1. In the options (lower right on the model), check the spectrometer and squiggle settings. Notice the
-energy diagram on the right of the model, as well as the red arrow labeled “Energy at collision”.
+1. In the options (lower right on the model), check the spectrometer and squiggle settings. Notice the energy diagram on the right of the model, as well as the red arrow labeled “Energy at collision”.
+
 2. Next Click on the “Multiple Atoms” tab on the model. Make sure that the Spectrometer and Squiggle options are checked. For each of the available gases given in the drop down menu on the right side of the model, observe the colors and intensities of light in the visible spectrum emitted by each element.
+
 3. Is this simulation an example of spectral emission or absorption? Explain the difference. Give a practical example of the type that is not used in this sim.
+
 4. Paying particular attention to the energy diagram in the model, describe & draw the process by which the emission of electromagnetic radiation (light) occurs. Can you find out whose atomic model was the first to accurately explain spectral lines?
+
 5. What is a photon? Who was the first person to “discover” this concept?
+
 6. What evidence do you see which suggests that light is emitted in quantized amounts? Explain.
+
 7. What is the Compton Effect and does it play any role with this simulation? Explain what it is and how is does or does not apply. Diagram!!
+
 8. Is it possible for a single electron to collide with the atom of hydrogen which results in more than one photon (particle) of light being emitted? Explain how using your observation from the simulation (use the slow motion option for this!) and by thinking about the question above. Diagram!!
+
 9. Suppose the electrons for a particular gas or material had four different energy states above the ground state. How many different photon energies are possible in this situation? Draw a diagram as part of your solution.
+
 10. Using observations from the simulation, explain the general and physical (equation) relationships between the following:
 		a. Frequency and energy
 		b. Wavelength and energy
 		c. Frequency and wavelength
+
 11. Suppose you are shining light on a metal and you observe electrons being emitted.
 		a. What is this phenomena called?
         b. Suppose the metal has a work function of 2 eV.
