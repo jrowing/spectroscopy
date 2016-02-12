@@ -1,15 +1,5 @@
-Describe your Changes
-
-Updated README.md
-SUBMIT CHANGE REQUEST
-jrowing / spectroscopy
-
-README.md
-Review your changes:
-Additions are highlighted in green. Deletions are crossed out.
-
-# Spectroscopyspectroscopy and Lasers
-A lesson on spectroscopy: and lasers - the aim of this lesson is to recap and give context to the recent work we have been doing on energy levels and the photoelectric effect.
+# Spectroscopy and Lasers
+A lesson on spectroscopy and lasers - the aim of this lesson is to recap and give context to the recent work we have been doing on energy levels and the photoelectric effect.
 
 ##Intro
 Spectroscopy and spectrography are terms used to refer to the measurement of radiation intensity as a function of wavelength and are often used to describe experimental spectroscopic methods. Spectral measurement devices are referred to as spectrometers, spectrophotometers, spectrographs or spectral analyzers.
@@ -20,7 +10,7 @@ Spectroscopy is used in physical and analytical chemistry because atoms and mole
 
 
 # Start by recapping
-##the The photoelectric effect:
+## The photoelectric effect:
 
 Some brilliant resources: [https://phet.colorado.edu/en/simulation/legacy/photoelectric](https://phet.colorado.edu/en/simulation/legacy/photoelectric "The Photoelectric Simulation at PhET")
 [http://physics.info/photoelectric/](http://physics.info/photoelectric/ "Physics hypertextbook")
@@ -43,7 +33,7 @@ energy diagram on the right of the model, as well as the red arrow labeled “En
 2. Next Click on the “Multiple Atoms” tab on the model. Make sure that the Spectrometer and Squiggle options are checked. For each of the available gases given in the drop down menu on the right side of the model, observe the colors and intensities of light in the visible spectrum emitted by each element.
 3. Is this simulation an example of spectral emission or absorption? Explain the difference. Give a practical example of the type that is not used in this sim.
 4. Paying particular attention to the energy diagram in the model, describe & draw the process by which the emission of electromagnetic radiation (light) occurs. Can you find out whose atomic model was the first to accurately explain spectral lines?
-5. What is a photon?brilliant Whoresource was the first person to “discover” this concept?
+5. What is a photon? Who was the first person to “discover” this concept?
 6. What evidence do you see which suggests that light is emitted in quantized amounts? Explain.
 7. What is the Compton Effect and does it play any role with this simulation? Explain what it is and how is does or does not apply. Diagram!!
 8. Is it possible for a single electron to collide with the atom of hydrogen which results in more than one photon (particle) of light being emitted? Explain how using your observation from the simulation (use the slow motion option for this!) and by thinking about the question above. Diagram!!
@@ -57,4 +47,3 @@ energy diagram on the right of the model, as well as the red arrow labeled “En
         b. Suppose the metal has a work function of 2 eV.
         		(I). What is the minimum energy, frequency, and wavelength that could stimulate electron emission? What would the speed of those electron be?
                 (II). Suppose you observed electrons being emitted at various speeds. The highest speed you observe is 10% of the speed of light. What is the wavelength, frequency, energy, and color of the light incident on the metal?
-Prose
