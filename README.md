@@ -31,6 +31,7 @@ Resources:
 Open the PhET model, “[Neon Lights and other Discharge Lamps](https://phet.colorado.edu/en/simulation/legacy/discharge-lamps)”. Spend a few minutes familiarizing yourself with the discharge tubes model. 
 Try clicking on different options, check all of the checkboxes, and get a general feel for how the model works. 
 Investigate both the one atom and multiple atoms tabs.
+
 1. In the options (lower right on the model), check the spectrometer and squiggle settings. Notice the energy diagram on the right of the model, as well as the red arrow labeled “Energy at collision”.
 
 2. Next Click on the “Multiple Atoms” tab on the model. Make sure that the Spectrometer and Squiggle options are checked. For each of the available gases given in the drop down menu on the right side of the model, observe the colors and intensities of light in the visible spectrum emitted by each element.
